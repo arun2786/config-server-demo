@@ -1,6 +1,0 @@
-app:
-	text: this is application text
-	my:
-		greeting: Greeting text from config server
-		list:
-			values: one, two, three
